@@ -1,0 +1,49 @@
+[
+  {
+    "TypeId": 1,
+
+    "CustomerId": 1,
+
+    "StartDate": "2022-02-15",
+    "PlannedEndDate": "2022-02-18",
+    "ActualEndDate": "2022-02-19",
+
+    "IsDamaged": false,
+    "IsTankEmpty": false,
+    "IsReturned": true,
+
+    "Price": 1000
+  },
+
+  {
+    "TypeId": 2,
+
+    "CustomerId": 2,
+
+    "StartDate": "2022-02-16",
+    "PlannedEndDate": "2022-02-19",
+    "ActualEndDate": "2022-02-19",
+
+    "IsDamaged": false,
+    "IsTankEmpty": false,
+    "IsReturned": true,
+
+    "Price": 400
+  },
+
+  {
+    "TypeId": 3,
+
+    "CustomerId": 3,
+
+    "StartDate": "2022-02-05",
+    "PlannedEndDate": "2022-02-20",
+    "ActualEndDate": "2022-02-20",
+
+    "IsDamaged": false,
+    "IsTankEmpty": false,
+    "IsReturned": true,
+
+    "Price": 750
+  }
+]

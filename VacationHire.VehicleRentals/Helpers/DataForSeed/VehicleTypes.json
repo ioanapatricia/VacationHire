@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Truck",
+    "PricePerDay": 200
+  },
+  {
+    "Name": "MiniVan",
+    "PricePerDay": 100
+  },
+  {
+    "Name": "Sedan",
+    "PricePerDay": 50
+  }
+]
